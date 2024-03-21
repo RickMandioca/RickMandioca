@@ -1,4 +1,4 @@
-# Resolução lista de exercíios 01
+# Resolução lista de exercícios 01
 
 Resolução da lista de exercícios 01 sobre ponteiros da linguagem C.
 
